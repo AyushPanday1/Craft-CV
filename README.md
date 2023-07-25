@@ -1,10 +1,8 @@
 # Craft-CV: A Resume Building Website
 
-![Craft-CV Logo](./Desktop/curriculum-vitae.png)
-
 Craft-CV is a user-friendly and interactive web application designed to help users create impressive resumes effortlessly. Built entirely with HTML, CSS, and JavaScript, Craft-CV empowers individuals to showcase their skills, experience, and achievements in a visually appealing format.
 
-**🚀 Visit the [Craft-CV Website](https://www.craft-cv.com) to create your resume today!**
+**🚀 Visit the [Craft-CV Website](https://craftcv.netlify.app/) to create your resume today!**
 
 ## Table of Contents
 
