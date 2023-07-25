@@ -66,10 +66,10 @@ Craft-CV is licensed under the [MIT License](./LICENSE).
 If you have any questions or feedback, feel free to reach out:
 
 - Email: ayush@7426883261@email.com
-- GitHub: [Your GitHub Profile](https://github.com/AyushPanday1)
+- GitHub:(https://github.com/AyushPanday1)
 
 
-
+## Happy Coding!
 © 2023 Ayush Panday
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
