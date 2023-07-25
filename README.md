@@ -33,6 +33,14 @@ To use Craft-CV locally, follow these steps:
 
  git clone https://github.com/AyushPanday1/Craft-CV.git
 
+**Enter the file folder**
+
+cd.. "Folder name"
+
+**Click Go Live or Live Server**
+
+click on index.html and Go live
+
 ## Usage
 
 1. **Click on Create My Resume** and proceed further.
