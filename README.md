@@ -22,7 +22,7 @@ Craft-CV is a user-friendly and interactive web application designed to help use
 - 📥 Downloadable Resume: Download or Print directly your resume in PDF format with one click.
 
 ## Demo
-![Craft-CV Demo](./images/craft-cv-demo.gif)
+![Craft-CV Demo](./Screenshots/curriculum-vitae.png)
 
 Check out the live demo of Craft-CV: [Craft-CV Demo](https://craftcv.netlify.app/)
 
